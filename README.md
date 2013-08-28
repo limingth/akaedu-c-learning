@@ -911,6 +911,11 @@ func.c -> list()
 
 https://github.com/limingth/lexico-c-flex.git
 
+## Git 命令
+* git clone
+* git pull
+* git push
+* git config
 
 
 
