@@ -1,0 +1,1630 @@
+demo mytt
+  1: word = <DOCTYPE>         len:7
+  2: word = <HTML>            len:4
+  3: word = <PUBLIC>          len:6
+  4: word = <W>               len:1
+  5: word = <C>               len:1
+  6: word = <DTD>             len:3
+  7: word = <Transitional>    len:12
+  8: word = <EN>              len:2
+  9: word = <html>            len:4
+ 10: word = <head>            len:4
+ 11: word = <meta>            len:4
+ 12: word = <http>            len:4
+ 13: word = <equiv>           len:5
+ 14: word = <Content>         len:7
+ 15: word = <Type>            len:4
+ 16: word = <content>         len:7
+ 17: word = <text>            len:4
+ 18: word = <charset>         len:7
+ 19: word = <gb>              len:2
+ 20: word = <title>           len:5
+ 21: word = <linux>           len:5
+ 22: word = <Linux>           len:5
+ 23: word = <name>            len:4
+ 24: word = <description>     len:11
+ 25: word = <ARM>             len:3
+ 26: word = <Connected>       len:9
+ 27: word = <Community>       len:9
+ 28: word = <MiniGUI>         len:7
+ 29: word = <keywords>        len:8
+ 30: word = <G>               len:1
+ 31: word = <Android>         len:7
+ 32: word = <copyright>       len:9
+ 33: word = <Copyright>       len:9
+ 34: word = <c>               len:1
+ 35: word = <by>              len:2
+ 36: word = <AKAE>            len:4
+ 37: word = <link>            len:4
+ 38: word = <href>            len:4
+ 39: word = <style>           len:5
+ 40: word = <home>            len:4
+ 41: word = <css>             len:3
+ 42: word = <rel>             len:3
+ 43: word = <stylesheet>      len:10
+ 44: word = <type>            len:4
+ 45: word = <script>          len:6
+ 46: word = <language>        len:8
+ 47: word = <JavaScript>      len:10
+ 48: word = <src>             len:3
+ 49: word = <js>              len:2
+ 50: word = <scroll>          len:6
+ 51: word = <baidu>           len:5
+ 52: word = <site>            len:4
+ 53: word = <verification>    len:12
+ 54: word = <HXNM>            len:4
+ 55: word = <AIRBomXtU>       len:9
+ 56: word = <body>            len:4
+ 57: word = <div>             len:3
+ 58: word = <moz>             len:3
+ 59: word = <border>          len:6
+ 60: word = <radius>          len:6
+ 61: word = <px>              len:2
+ 62: word = <khtml>           len:5
+ 63: word = <webkit>          len:6
+ 64: word = <width>           len:5
+ 65: word = <align>           len:5
+ 66: word = <center>          len:6
+ 67: word = <color>           len:5
+ 68: word = <rgb>             len:3
+ 69: word = <font>            len:4
+ 70: word = <size>            len:4
+ 71: word = <margin>          len:6
+ 72: word = <pt>              len:2
+ 73: word = <auto>            len:4
+ 74: word = <padding>         len:7
+ 75: word = <br>              len:2
+ 76: word = <table>           len:5
+ 77: word = <cellpadding>     len:11
+ 78: word = <cellspacing>     len:11
+ 79: word = <tr>              len:2
+ 80: word = <td>              len:2
+ 81: word = <colspan>         len:7
+ 82: word = <tmenu>           len:5
+ 83: word = <list>            len:4
+ 84: word = <none>            len:4
+ 85: word = <height>          len:6
+ 86: word = <background>      len:10
+ 87: word = <url>             len:3
+ 88: word = <img>             len:3
+ 89: word = <menu>            len:4
+ 90: word = <bg>              len:2
+ 91: word = <gif>             len:3
+ 92: word = <no>              len:2
+ 93: word = <repeat>          len:6
+ 94: word = <top>             len:3
+ 95: word = <important>       len:9
+ 96: word = <ul>              len:2
+ 97: word = <clear>           len:5
+ 98: word = <both>            len:4
+ 99: word = <li>              len:2
+100: word = <float>           len:5
+101: word = <left>            len:4
+102: word = <page>            len:4
+103: word = <nav>             len:3
+104: word = <line>            len:4
+105: word = <LI>              len:2
+106: word = <a>               len:1
+107: word = <decoration>      len:10
+108: word = <hover>           len:5
+109: word = <FF>              len:2
+110: word = <SCRIPT>          len:6
+111: word = <function>        len:8
+112: word = <CDiv>            len:4
+113: word = <para>            len:4
+114: word = <var>             len:3
+115: word = <Div>             len:3
+116: word = <window>          len:6
+117: word = <document>        len:8
+118: word = <getElementById>  len:14
+119: word = <for>             len:3
+120: word = <i>               len:1
+121: word = <if>              len:2
+122: word = <tem>             len:3
+123: word = <temm>            len:4
+124: word = <display>         len:7
+125: word = <png>             len:3
+126: word = <alt>             len:3
+127: word = <class>           len:5
+128: word = <www>             len:3
+129: word = <aka>             len:3
+130: word = <org>             len:3
+131: word = <cn>              len:2
+132: word = <index>           len:5
+133: word = <shtml>           len:5
+134: word = <nofollow>        len:8
+135: word = <onmouseover>     len:11
+136: word = <AKA>             len:3
+137: word = <target>          len:6
+138: word = <blank>           len:5
+139: word = <FFFFFF>          len:6
+140: word = <pages>           len:5
+141: word = <about>           len:5
+142: word = <php>             len:3
+143: word = <htm>             len:3
+144: word = <akaedu>          len:6
+145: word = <dqindex>         len:7
+146: word = <team>            len:4
+147: word = <zyindex>         len:7
+148: word = <ask>             len:3
+149: word = <contact>         len:7
+150: word = <jiuye>           len:5
+151: word = <neweb>           len:5
+152: word = <templates>       len:9
+153: word = <yqb>             len:3
+154: word = <yqmy>            len:4
+155: word = <id>              len:2
+156: word = <DISPLAY>         len:7
+157: word = <akae>            len:4
+158: word = <new>             len:3
+159: word = <nbsp>            len:4
+160: word = <b>               len:1
+161: word = <news>            len:4
+162: word = <right>           len:5
+163: word = <cert>            len:4
+164: word = <protect>         len:7
+165: word = <eva>             len:3
+166: word = <jobnews>         len:7
+167: word = <course>          len:6
+168: word = <weight>          len:6
+169: word = <bold>            len:4
+170: word = <anli>            len:4
+171: word = <tlist>           len:5
+172: word = <newsdetail>      len:10
+173: word = <xyx>             len:3
+174: word = <classroom>       len:9
+175: word = <baoming>         len:7
+176: word = <shuma>           len:5
+177: word = <qudong>          len:6
+178: word = <valign>          len:6
+179: word = <jpg>             len:3
+180: word = <online>          len:6
+181: word = <zizhuxuexi>      len:10
+182: word = <im>              len:2
+183: word = <span>            len:4
+184: word = <ip>              len:2
+185: word = <v>               len:1
+186: word = <youku>           len:5
+187: word = <com>             len:3
+188: word = <show>            len:4
+189: word = <XNTUzMzk>        len:8
+190: word = <MjQ>             len:3
+191: word = <dzimg>           len:5
+192: word = <hots>            len:4
+193: word = <XNTUzNDIxNjI>    len:12
+194: word = <XNTUzNDMwNzAw>   len:13
+195: word = <XNTUzNDQ>        len:8
+196: word = <Nzky>            len:4
+197: word = <ELF>             len:3
+198: word = <XNTUzNDYyMDA>    len:12
+199: word = <XNTUzNDcxNDQ>    len:12
+200: word = <XNTUzNzIxMzky>   len:13
+201: word = <XNTUzNzMwMDUy>   len:13
+202: word = <XNTUzNzUyNjY>    len:12
+203: word = <XNTUzNzc>        len:8
+204: word = <NzYw>            len:4
+205: word = <XNTUzODAzODMy>   len:13
+206: word = <XNTUzODQ>        len:8
+207: word = <OTQ>             len:3
+208: word = <p>               len:1
+209: word = <OVERFLOW>        len:8
+210: word = <hidden>          len:6
+211: word = <WIDTH>           len:5
+212: word = <HEIGHT>          len:6
+213: word = <tbody>           len:5
+214: word = <middle>          len:6
+215: word = <Gandrid>         len:7
+216: word = <linuxshujia>     len:11
+217: word = <video>           len:5
+218: word = <study>           len:5
+219: word = <song>            len:4
+220: word = <hanchao>         len:7
+221: word = <embedded>        len:8
+222: word = <linuxBasicCommnad> len:17
+223: word = <vim>             len:3
+224: word = <gcc>             len:3
+225: word = <Gcc>             len:3
+226: word = <gdb>             len:3
+227: word = <Gdb>             len:3
+228: word = <makefile>        len:8
+229: word = <Makefile>        len:8
+230: word = <toolchainsShow>  len:14
+231: word = <GNU>             len:3
+232: word = <clecture>        len:8
+233: word = <clectureindex>   len:13
+234: word = <work>            len:4
+235: word = <bgcolor>         len:7
+236: word = <d>               len:1
+237: word = <e>               len:1
+238: word = <strong>          len:6
+239: word = <NewStars>        len:8
+240: word = <QQ>              len:2
+241: word = <vod>             len:3
+242: word = <books>           len:5
+243: word = <collapse>        len:8
+244: word = <bks>             len:3
+245: word = <EDF>             len:3
+246: word = <FA>              len:2
+247: word = <book>            len:4
+248: word = <MIPS>            len:4
+249: word = <akaev>           len:5
+250: word = <E>               len:1
+251: word = <F>               len:1
+252: word = <vlist>           len:5
+253: word = <teacher>         len:7
+254: word = <gt>              len:2
+255: word = <USB>             len:3
+256: word = <AMD>             len:3
+257: word = <FreeBSD>         len:7
+258: word = <Solaris>         len:7
+259: word = <wuyue>           len:5
+260: word = <wangbo>          len:6
+261: word = <mid>             len:3
+262: word = <kbxx>            len:4
+263: word = <edf>             len:3
+264: word = <fa>              len:2
+265: word = <marquee>         len:7
+266: word = <direction>       len:9
+267: word = <onMouseOut>      len:10
+268: word = <this>            len:4
+269: word = <start>           len:5
+270: word = <onMouseOver>     len:11
+271: word = <stop>            len:4
+272: word = <scrollamount>    len:12
+273: word = <scrolldelay>     len:11
+274: word = <bottom>          len:6
+275: word = <athena>          len:6
+276: word = <android>         len:7
+277: word = <tiyan>           len:5
+278: word = <hot>             len:3
+279: word = <qrsgcspx>        len:8
+280: word = <ff>              len:2
+281: word = <lt>              len:2
+282: word = <PADDING>         len:7
+283: word = <RIGHT>           len:5
+284: word = <LEFT>            len:4
+285: word = <BOTTOM>          len:6
+286: word = <TOP>             len:3
+287: word = <ffffff>          len:6
+288: word = <D>               len:1
+289: word = <DLinux>          len:6
+290: word = <Java>            len:4
+291: word = <Core>            len:4
+292: word = <DAndroid>        len:8
+293: word = <Socket>          len:6
+294: word = <OpenGL>          len:6
+295: word = <XML>             len:3
+296: word = <UI>              len:2
+297: word = <SOLite>          len:6
+298: word = <NDK>             len:3
+299: word = <ContentProvider> len:15
+300: word = <Service>         len:7
+301: word = <Binder>          len:6
+302: word = <surfaceview>     len:11
+303: word = <asynctask>       len:9
+304: word = <URLConnection>   len:13
+305: word = <HttpClient>      len:10
+306: word = <Json>            len:4
+307: word = <Home>            len:4
+308: word = <red>             len:3
+309: word = <wqkgj>           len:5
+310: word = <LCD>             len:3
+311: word = <Frambuffer>      len:10
+312: word = <summer>          len:6
+313: word = <qudonggj>        len:8
+314: word = <gaojibiancheng>  len:14
+315: word = <linuxgjgcs>      len:10
+316: word = <yizhi>           len:5
+317: word = <bom>             len:3
+318: word = <pic>             len:3
+319: word = <ydbtp>           len:5
+320: word = <aobj>            len:4
+321: word = <obj>             len:3
+322: word = <yq>              len:2
+323: word = <wow>             len:3
+324: word = <speed>           len:5
+325: word = <innerHTML>       len:9
+326: word = <Marquee>         len:7
+327: word = <offsetTop>       len:9
+328: word = <scrollTop>       len:9
+329: word = <offsetHeight>    len:12
+330: word = <else>            len:4
+331: word = <MyMar>           len:5
+332: word = <setInterval>     len:11
+333: word = <clearInterval>   len:13
+334: word = <onmouseout>      len:10
+335: word = <jishuwendang>    len:12
+336: word = <rrtop>           len:5
+337: word = <untitled>        len:8
+338: word = <t>               len:1
+339: word = <IT>              len:2
+340: word = <ubuntu>          len:6
+341: word = <family>          len:6
+342: word = <wuhan>           len:5
+343: word = <solid>           len:5
+344: word = <ccc>             len:3
+345: word = <dotted>          len:6
+346: word = <B>               len:1
+347: word = <redlink>         len:7
+348: word = <FILTER>          len:6
+349: word = <alpha>           len:5
+350: word = <opacity>         len:7
+351: word = <sid>             len:3
+352: word = <aid>             len:3
+353: word = <more>            len:4
+354: word = <TABLE>           len:5
+355: word = <cellSpacing>     len:11
+356: word = <cellPadding>     len:11
+357: word = <TBODY>           len:5
+358: word = <TR>              len:2
+359: word = <TD>              len:2
+360: word = <TEXT>            len:4
+361: word = <ALIGN>           len:5
+362: word = <A>               len:1
+363: word = <bluelink>        len:8
+364: word = <FONT>            len:4
+365: word = <IMG>             len:3
+366: word = <hd>              len:2
+367: word = <underline>       len:9
+368: word = <Moblin>          len:6
+369: word = <CPU>             len:3
+370: word = <authorize>       len:9
+371: word = <zhiliang>        len:8
+372: word = <logo>            len:4
+373: word = <lpi>             len:3
+374: word = <LPI>             len:3
+375: word = <CC>              len:2
+376: word = <coston>          len:6
+377: word = <bubugao>         len:7
+378: word = <VxWorks>         len:7
+379: word = <hspace>          len:6
+380: word = <vspace>          len:6
+381: word = <business>        len:8
+382: word = <SPARK>           len:5
+383: word = <tw>              len:2
+384: word = <kecheng>         len:7
+385: word = <form>            len:4
+386: word = <method>          len:6
+387: word = <post>            len:4
+388: word = <action>          len:6
+389: word = <mail>            len:4
+390: word = <write>           len:5
+391: word = <f>               len:1
+392: word = <faff>            len:4
+393: word = <STYLE>           len:5
+394: word = <Email>           len:5
+395: word = <input>           len:5
+396: word = <s>               len:1
+397: word = <email>           len:5
+398: word = <Submit>          len:6
+399: word = <value>           len:5
+400: word = <submit>          len:6
+401: word = <advice>          len:6
+402: word = <tdblue>          len:6
+403: word = <yjbys>           len:5
+404: word = <peixun>          len:6
+405: word = <bylw>            len:4
+406: word = <gdyjs>           len:5
+407: word = <xmuky>           len:5
+408: word = <njnukao>         len:7
+409: word = <cnhutong>        len:8
+410: word = <embeddedlinux>   len:13
+411: word = <eefocus>         len:7
+412: word = <sjz>             len:3
+413: word = <fudao>           len:5
+414: word = <jn>              len:2
+415: word = <wangjiaoba>      len:10
+416: word = <gmat>            len:4
+417: word = <tiandaoedu>      len:10
+418: word = <GMAT>            len:4
+419: word = <eechina>         len:7
+420: word = <programming>     len:11
+421: word = <soft>            len:4
+422: word = <job>             len:3
+423: word = <yishi>           len:5
+424: word = <yixue>           len:5
+425: word = <tarenasz>        len:8
+426: word = <caizicheng>      len:10
+427: word = <yinghuaedu>      len:10
+428: word = <gztarena>        len:8
+429: word = <icbuy>           len:5
+430: word = <yihekangmei>     len:11
+431: word = <boyihudong>      len:10
+432: word = <bjtarena>        len:8
+433: word = <gtarena>         len:7
+434: word = <retc>            len:4
+435: word = <java>            len:4
+436: word = <cyuyan>          len:6
+437: word = <ychun>           len:5
+438: word = <offcn>           len:5
+439: word = <phptarena>       len:9
+440: word = <PHP>             len:3
+441: word = <st>              len:2
+442: word = <china>           len:5
+443: word = <gre>             len:3
+444: word = <xiaoma>          len:6
+445: word = <GRE>             len:3
+446: word = <etime>           len:5
+447: word = <net>             len:3
+448: word = <linuxidc>        len:8
+449: word = <bj>              len:2
+450: word = <szpxe>           len:5
+451: word = <edude>           len:5
+452: word = <edu>             len:3
+453: word = <itpxpj>          len:6
+454: word = <changsha>        len:8
+455: word = <xueda>           len:5
+456: word = <beijing>         len:7
+457: word = <qd>              len:2
+458: word = <tj>              len:2
+459: word = <tantuw>          len:6
+460: word = <cuebqg>          len:6
+461: word = <bbs>             len:3
+462: word = <itcast>          len:6
+463: word = <forum>           len:5
+464: word = <csacc>           len:5
+465: word = <cjkj>            len:4
+466: word = <conu>            len:4
+467: word = <hbTab>           len:5
+468: word = <conl>            len:4
+469: word = <cont>            len:4
+470: word = <m>               len:1
+471: word = <con>             len:3
+472: word = <block>           len:5
+473: word = <tencent>         len:7
+474: word = <message>         len:7
+475: word = <uin>             len:3
+476: word = <Site>            len:4
+477: word = <Menu>            len:4
+478: word = <yes>             len:3
+479: word = <wpa>             len:3
+480: word = <qq>              len:2
+481: word = <pa>              len:2
+482: word = <MSN>             len:3
+483: word = <wh>              len:2
+484: word = <lyglb>           len:5
+485: word = <hotmail>         len:7
+486: word = <bqdb>            len:4
+487: word = <miibeian>        len:8
+488: word = <gov>             len:3
+489: word = <ICP>             len:3
+490: word = <Baidu>           len:5
+491: word = <tongji>          len:6
+492: word = <analytics>       len:9
+493: word = <javascript>      len:10
+494: word = <bdhmProtocol>    len:12
+495: word = <https>           len:5
+496: word = <location>        len:8
+497: word = <protocol>        len:8
+498: word = <unescape>        len:8
+499: word = <Cscript>         len:7
+500: word = <hm>              len:2
+501: word = <h>               len:1
+502: word = <Fdc>             len:3
+503: word = <acd>             len:3
+504: word = <fef>             len:3
+505: word = <cnzz>            len:4
+506: word = <stat>            len:4
+507: word = <web>             len:3
+508: word = <lainframe>       len:9
+509: word = <chat>            len:4
+510: word = <kf>              len:2
+511: word = <arg>             len:3
+512: word = <bjtop>           len:5
+513: word = <icon>            len:4
+514: word = <noscript>        len:8
+515: word = <yahoo>           len:5
+516: word = <Button>          len:6
+517: word = <BEGIN>           len:5
+518: word = <bdshare>         len:7
+519: word = <bds>             len:3
+520: word = <tools>           len:5
+521: word = <get>             len:3
+522: word = <codes>           len:5
+523: word = <position>        len:8
+524: word = <absolute>        len:8
+525: word = <qzone>           len:5
+526: word = <tsina>           len:5
+527: word = <tqq>             len:3
+528: word = <renren>          len:6
+529: word = <shareCount>      len:10
+530: word = <data>            len:4
+531: word = <amp>             len:3
+532: word = <uid>             len:3
+533: word = <bdshell>         len:7
+534: word = <bdimg>           len:5
+535: word = <share>           len:5
+536: word = <static>          len:6
+537: word = <shell>           len:5
+538: word = <cdnversion>      len:10
+539: word = <Math>            len:4
+540: word = <ceil>            len:4
+541: word = <Date>            len:4
+542: word = <END>             len:3
+max len = 17 words list here:
+<linuxBasicCommnad>
+  1: DOCTYPE             len: 7  freq:   1
+  2: HTML                len: 4  freq:   2
+  3: PUBLIC              len: 6  freq:   1
+  4: W                   len: 1  freq:   1
+  5: C                   len: 1  freq:  32
+  6: DTD                 len: 3  freq:   1
+  7: Transitional        len:12  freq:   1
+  8: EN                  len: 2  freq:   1
+  9: html                len: 4  freq:  99
+ 10: head                len: 4  freq:   2
+ 11: meta                len: 4  freq:   5
+ 12: http                len: 4  freq: 238
+ 13: equiv               len: 5  freq:   1
+ 14: Content             len: 7  freq:   1
+ 15: Type                len: 4  freq:   1
+ 16: content             len: 7  freq:   5
+ 17: text                len: 4  freq:  22
+ 18: charset             len: 7  freq:   2
+ 19: gb                  len: 2  freq:   2
+ 20: title               len: 5  freq:  25
+ 21: linux               len: 5  freq:  15
+ 22: Linux               len: 5  freq:  46
+ 23: name                len: 4  freq:   7
+ 24: description         len:11  freq:   1
+ 25: ARM                 len: 3  freq:  11
+ 26: Connected           len: 9  freq:   2
+ 27: Community           len: 9  freq:   2
+ 28: MiniGUI             len: 7  freq:   1
+ 29: keywords            len: 8  freq:   1
+ 30: G                   len: 1  freq:   4
+ 31: Android             len: 7  freq:  15
+ 32: copyright           len: 9  freq:   1
+ 33: Copyright           len: 9  freq:   1
+ 34: c                   len: 1  freq:   4
+ 35: by                  len: 2  freq:   1
+ 36: AKAE                len: 4  freq:   5
+ 37: link                len: 4  freq:   1
+ 38: href                len: 4  freq: 322
+ 39: style               len: 5  freq: 102
+ 40: home                len: 4  freq:   2
+ 41: css                 len: 3  freq:   3
+ 42: rel                 len: 3  freq:  19
+ 43: stylesheet          len:10  freq:   1
+ 44: type                len: 4  freq:  16
+ 45: script              len: 6  freq:  36
+ 46: language            len: 8  freq:   8
+ 47: JavaScript          len:10  freq:   8
+ 48: src                 len: 3  freq: 152
+ 49: js                  len: 2  freq:  21
+ 50: scroll              len: 6  freq:   1
+ 51: baidu               len: 5  freq:   4
+ 52: site                len: 4  freq:   1
+ 53: verification        len:12  freq:   1
+ 54: HXNM                len: 4  freq:   1
+ 55: AIRBomXtU           len: 9  freq:   1
+ 56: body                len: 4  freq:   2
+ 57: div                 len: 3  freq:  26
+ 58: moz                 len: 3  freq:   1
+ 59: border              len: 6  freq: 110
+ 60: radius              len: 6  freq:   4
+ 61: px                  len: 2  freq: 133
+ 62: khtml               len: 5  freq:   1
+ 63: webkit              len: 6  freq:   1
+ 64: width               len: 5  freq: 268
+ 65: align               len: 5  freq: 146
+ 66: center              len: 6  freq: 123
+ 67: color               len: 5  freq:  53
+ 68: rgb                 len: 3  freq:   5
+ 69: font                len: 4  freq: 130
+ 70: size                len: 4  freq:  15
+ 71: margin              len: 6  freq:  15
+ 72: pt                  len: 2  freq:   6
+ 73: auto                len: 4  freq:   2
+ 74: padding             len: 7  freq:  20
+ 75: br                  len: 2  freq:  64
+ 76: table               len: 5  freq:  47
+ 77: cellpadding         len:11  freq:  21
+ 78: cellspacing         len:11  freq:  20
+ 79: tr                  len: 2  freq: 695
+ 80: td                  len: 2  freq: 882
+ 81: colspan             len: 7  freq:  73
+ 82: tmenu               len: 5  freq:   7
+ 83: list                len: 4  freq:  15
+ 84: none                len: 4  freq:  17
+ 85: height              len: 6  freq: 251
+ 86: background          len:10  freq:   8
+ 87: url                 len: 3  freq:   2
+ 88: img                 len: 3  freq: 275
+ 89: menu                len: 4  freq:   6
+ 90: bg                  len: 2  freq:   4
+ 91: gif                 len: 3  freq:  35
+ 92: no                  len: 2  freq:   2
+ 93: repeat              len: 6  freq:   2
+ 94: top                 len: 3  freq:  10
+ 95: important           len: 9  freq:   1
+ 96: ul                  len: 2  freq:  28
+ 97: clear               len: 5  freq:   1
+ 98: both                len: 4  freq:   1
+ 99: li                  len: 2  freq: 123
+100: float               len: 5  freq:   1
+101: left                len: 4  freq:  66
+102: page                len: 4  freq:  89
+103: nav                 len: 3  freq:   4
+104: line                len: 4  freq:  44
+105: LI                  len: 2  freq:   1
+106: a                   len: 1  freq: 688
+107: decoration          len:10  freq:   2
+108: hover               len: 5  freq:   1
+109: FF                  len: 2  freq:  12
+110: SCRIPT              len: 6  freq:   2
+111: function            len: 8  freq:   4
+112: CDiv                len: 4  freq:  14
+113: para                len: 4  freq:   3
+114: var                 len: 3  freq:   8
+115: Div                 len: 3  freq:   4
+116: window              len: 6  freq:   3
+117: document            len: 8  freq:   8
+118: getElementById      len:14  freq:   4
+119: for                 len: 3  freq:   1
+120: i                   len: 1  freq:   6
+121: if                  len: 2  freq:   3
+122: tem                 len: 3  freq:   2
+123: temm                len: 4  freq:   1
+124: display             len: 7  freq:   5
+125: png                 len: 3  freq:   2
+126: alt                 len: 3  freq:  17
+127: class               len: 5  freq: 174
+128: www                 len: 3  freq: 196
+129: aka                 len: 3  freq:   8
+130: org                 len: 3  freq: 163
+131: cn                  len: 2  freq:  19
+132: index               len: 5  freq:   3
+133: shtml               len: 5  freq:   1
+134: nofollow            len: 8  freq:  18
+135: onmouseover         len:11  freq:  14
+136: AKA                 len: 3  freq:   2
+137: target              len: 6  freq: 230
+138: blank               len: 5  freq: 230
+139: FFFFFF              len: 6  freq:  18
+140: pages               len: 5  freq: 130
+141: about               len: 5  freq:  12
+142: php                 len: 3  freq: 101
+143: htm                 len: 3  freq:  54
+144: akaedu              len: 6  freq: 163
+145: dqindex             len: 7  freq:   2
+146: team                len: 4  freq:  24
+147: zyindex             len: 7  freq:   8
+148: ask                 len: 3  freq:   9
+149: contact             len: 7  freq:   6
+150: jiuye               len: 5  freq:   2
+151: neweb               len: 5  freq:   3
+152: templates           len: 9  freq:   1
+153: yqb                 len: 3  freq:   1
+154: yqmy                len: 4  freq:   1
+155: id                  len: 2  freq:  63
+156: DISPLAY             len: 7  freq:  11
+157: akae                len: 4  freq:  11
+158: new                 len: 3  freq:   2
+159: nbsp                len: 4  freq: 415
+160: b                   len: 1  freq: 126
+161: news                len: 4  freq:   2
+162: right               len: 5  freq:  68
+163: cert                len: 4  freq:   1
+164: protect             len: 7  freq:   1
+165: eva                 len: 3  freq:   2
+166: jobnews             len: 7  freq:   1
+167: course              len: 6  freq:   6
+168: weight              len: 6  freq:   1
+169: bold                len: 4  freq:   1
+170: anli                len: 4  freq:   5
+171: tlist               len: 5  freq:   1
+172: newsdetail          len:10  freq:  23
+173: xyx                 len: 3  freq:   7
+174: classroom           len: 9  freq:   1
+175: baoming             len: 7  freq:   1
+176: shuma               len: 5  freq:   1
+177: qudong              len: 6  freq:   6
+178: valign              len: 6  freq:  32
+179: jpg                 len: 3  freq: 105
+180: online              len: 6  freq:   1
+181: zizhuxuexi          len:10  freq:   1
+182: im                  len: 2  freq:  32
+183: span                len: 4  freq:  80
+184: ip                  len: 2  freq:  31
+185: v                   len: 1  freq:  26
+186: youku               len: 5  freq:  12
+187: com                 len: 3  freq:  64
+188: show                len: 4  freq:  13
+189: XNTUzMzk            len: 8  freq:   1
+190: MjQ                 len: 3  freq:   1
+191: dzimg               len: 5  freq:  17
+192: hots                len: 4  freq:  17
+193: XNTUzNDIxNjI        len:12  freq:   1
+194: XNTUzNDMwNzAw       len:13  freq:   1
+195: XNTUzNDQ            len: 8  freq:   1
+196: Nzky                len: 4  freq:   1
+197: ELF                 len: 3  freq:   1
+198: XNTUzNDYyMDA        len:12  freq:   1
+199: XNTUzNDcxNDQ        len:12  freq:   1
+200: XNTUzNzIxMzky       len:13  freq:   1
+201: XNTUzNzMwMDUy       len:13  freq:   1
+202: XNTUzNzUyNjY        len:12  freq:   1
+203: XNTUzNzc            len: 8  freq:   1
+204: NzYw                len: 4  freq:   1
+205: XNTUzODAzODMy       len:13  freq:   1
+206: XNTUzODQ            len: 8  freq:   1
+207: OTQ                 len: 3  freq:   1
+208: p                   len: 1  freq:  19
+209: OVERFLOW            len: 8  freq:   3
+210: hidden              len: 6  freq:   3
+211: WIDTH               len: 5  freq:   2
+212: HEIGHT              len: 6  freq:   2
+213: tbody               len: 5  freq:   4
+214: middle              len: 6  freq:  30
+215: Gandrid             len: 7  freq:   1
+216: linuxshujia         len:11  freq:   1
+217: video               len: 5  freq:  15
+218: study               len: 5  freq:   9
+219: song                len: 4  freq:   1
+220: hanchao             len: 7  freq:   1
+221: embedded            len: 8  freq:   1
+222: linuxBasicCommnad    len:17  freq:   1
+223: vim                 len: 3  freq:   2
+224: gcc                 len: 3  freq:   1
+225: Gcc                 len: 3  freq:   1
+226: gdb                 len: 3  freq:   1
+227: Gdb                 len: 3  freq:   1
+228: makefile            len: 8  freq:   1
+229: Makefile            len: 8  freq:   1
+230: toolchainsShow      len:14  freq:   1
+231: GNU                 len: 3  freq:   1
+232: clecture            len: 8  freq:   1
+233: clectureindex       len:13  freq:   1
+234: work                len: 4  freq:   1
+235: bgcolor             len: 7  freq: 141
+236: d                   len: 1  freq:  73
+237: e                   len: 1  freq:  74
+238: strong              len: 6  freq:  97
+239: NewStars            len: 8  freq:   2
+240: QQ                  len: 2  freq:   7
+241: vod                 len: 3  freq:   2
+242: books               len: 5  freq:   1
+243: collapse            len: 8  freq:   2
+244: bks                 len: 3  freq:  13
+245: EDF                 len: 3  freq:   3
+246: FA                  len: 2  freq:   5
+247: book                len: 4  freq:   8
+248: MIPS                len: 4  freq:   4
+249: akaev               len: 5  freq:   1
+250: E                   len: 1  freq:  13
+251: F                   len: 1  freq:   3
+252: vlist               len: 5  freq:   3
+253: teacher             len: 7  freq:   1
+254: gt                  len: 2  freq:  13
+255: USB                 len: 3  freq:   3
+256: AMD                 len: 3  freq:   1
+257: FreeBSD             len: 7  freq:   1
+258: Solaris             len: 7  freq:   1
+259: wuyue               len: 5  freq:   1
+260: wangbo              len: 6  freq:   1
+261: mid                 len: 3  freq:   3
+262: kbxx                len: 4  freq:   1
+263: edf                 len: 3  freq:  35
+264: fa                  len: 2  freq:  35
+265: marquee             len: 7  freq:   2
+266: direction           len: 9  freq:   1
+267: onMouseOut          len:10  freq:   1
+268: this                len: 4  freq:   2
+269: start               len: 5  freq:   1
+270: onMouseOver         len:11  freq:   2
+271: stop                len: 4  freq:   1
+272: scrollamount        len:12  freq:   1
+273: scrolldelay         len:11  freq:   1
+274: bottom              len: 6  freq:  28
+275: athena              len: 6  freq:   1
+276: android             len: 7  freq:  10
+277: tiyan               len: 5  freq:   1
+278: hot                 len: 3  freq:   7
+279: qrsgcspx            len: 8  freq:   4
+280: ff                  len: 2  freq:   9
+281: lt                  len: 2  freq:  16
+282: PADDING             len: 7  freq:  36
+283: RIGHT               len: 5  freq:   9
+284: LEFT                len: 4  freq:   9
+285: BOTTOM              len: 6  freq:   9
+286: TOP                 len: 3  freq:   9
+287: ffffff              len: 6  freq:  26
+288: D                   len: 1  freq:  13
+289: DLinux              len: 6  freq:   1
+290: Java                len: 4  freq:   3
+291: Core                len: 4  freq:   1
+292: DAndroid            len: 8  freq:   4
+293: Socket              len: 6  freq:   2
+294: OpenGL              len: 6  freq:   1
+295: XML                 len: 3  freq:   1
+296: UI                  len: 2  freq:   2
+297: SOLite              len: 6  freq:   1
+298: NDK                 len: 3  freq:   1
+299: ContentProvider     len:15  freq:   1
+300: Service             len: 7  freq:   1
+301: Binder              len: 6  freq:   1
+302: surfaceview         len:11  freq:   1
+303: asynctask           len: 9  freq:   1
+304: URLConnection       len:13  freq:   1
+305: HttpClient          len:10  freq:   1
+306: Json                len: 4  freq:   1
+307: Home                len: 4  freq:   1
+308: red                 len: 3  freq:   5
+309: wqkgj               len: 5  freq:   8
+310: LCD                 len: 3  freq:   2
+311: Frambuffer          len:10  freq:   2
+312: summer              len: 6  freq:   2
+313: qudonggj            len: 8  freq:   3
+314: gaojibiancheng      len:14  freq:   1
+315: linuxgjgcs          len:10  freq:   3
+316: yizhi               len: 5  freq:   1
+317: bom                 len: 3  freq:   3
+318: pic                 len: 3  freq:   5
+319: ydbtp               len: 5  freq:   1
+320: aobj                len: 4  freq:   1
+321: obj                 len: 3  freq:   1
+322: yq                  len: 2  freq:   1
+323: wow                 len: 3  freq:  12
+324: speed               len: 5  freq:   3
+325: innerHTML           len: 9  freq:   2
+326: Marquee             len: 7  freq:   3
+327: offsetTop           len: 9  freq:   1
+328: scrollTop           len: 9  freq:   3
+329: offsetHeight        len:12  freq:   1
+330: else                len: 4  freq:   1
+331: MyMar               len: 5  freq:   3
+332: setInterval         len:11  freq:   2
+333: clearInterval       len:13  freq:   1
+334: onmouseout          len:10  freq:   1
+335: jishuwendang        len:12  freq:   1
+336: rrtop               len: 5  freq:  16
+337: untitled            len: 8  freq:  30
+338: t                   len: 1  freq:  44
+339: IT                  len: 2  freq:   3
+340: ubuntu              len: 6  freq:   1
+341: family              len: 6  freq:   2
+342: wuhan               len: 5  freq:   2
+343: solid               len: 5  freq:   1
+344: ccc                 len: 3  freq:   1
+345: dotted              len: 6  freq:   6
+346: B                   len: 1  freq:   6
+347: redlink             len: 7  freq:   3
+348: FILTER              len: 6  freq:   1
+349: alpha               len: 5  freq:   1
+350: opacity             len: 7  freq:   1
+351: sid                 len: 3  freq:   5
+352: aid                 len: 3  freq:   5
+353: more                len: 4  freq:   5
+354: TABLE               len: 5  freq:   4
+355: cellSpacing         len:11  freq:   2
+356: cellPadding         len:11  freq:   2
+357: TBODY               len: 5  freq:   4
+358: TR                  len: 2  freq:   8
+359: TD                  len: 2  freq:   8
+360: TEXT                len: 4  freq:   1
+361: ALIGN               len: 5  freq:   1
+362: A                   len: 1  freq:   8
+363: bluelink            len: 8  freq:   1
+364: FONT                len: 4  freq:   2
+365: IMG                 len: 3  freq:   2
+366: hd                  len: 2  freq:   1
+367: underline           len: 9  freq:  15
+368: Moblin              len: 6  freq:   2
+369: CPU                 len: 3  freq:   1
+370: authorize           len: 9  freq:   1
+371: zhiliang            len: 8  freq:   2
+372: logo                len: 4  freq:   3
+373: lpi                 len: 3  freq:   1
+374: LPI                 len: 3  freq:   4
+375: CC                  len: 2  freq:   2
+376: coston              len: 6  freq:   1
+377: bubugao             len: 7  freq:   1
+378: VxWorks             len: 7  freq:   2
+379: hspace              len: 6  freq:   2
+380: vspace              len: 6  freq:   4
+381: business            len: 8  freq:   2
+382: SPARK               len: 5  freq:   1
+383: tw                  len: 2  freq:   1
+384: kecheng             len: 7  freq:   1
+385: form                len: 4  freq:   3
+386: method              len: 6  freq:   1
+387: post                len: 4  freq:   1
+388: action              len: 6  freq:   2
+389: mail                len: 4  freq:   1
+390: write               len: 5  freq:   4
+391: f                   len: 1  freq:   2
+392: faff                len: 4  freq:   1
+393: STYLE               len: 5  freq:   3
+394: Email               len: 5  freq:   1
+395: input               len: 5  freq:   2
+396: s                   len: 1  freq:   2
+397: email               len: 5  freq:   1
+398: Submit              len: 6  freq:   1
+399: value               len: 5  freq:   1
+400: submit              len: 6  freq:   1
+401: advice              len: 6  freq:   1
+402: tdblue              len: 6  freq:   5
+403: yjbys               len: 5  freq:   1
+404: peixun              len: 6  freq:   2
+405: bylw                len: 4  freq:   1
+406: gdyjs               len: 5  freq:   1
+407: xmuky               len: 5  freq:   1
+408: njnukao             len: 7  freq:   1
+409: cnhutong            len: 8  freq:   1
+410: embeddedlinux       len:13  freq:   1
+411: eefocus             len: 7  freq:   1
+412: sjz                 len: 3  freq:   1
+413: fudao               len: 5  freq:   2
+414: jn                  len: 2  freq:   1
+415: wangjiaoba          len:10  freq:   1
+416: gmat                len: 4  freq:   1
+417: tiandaoedu          len:10  freq:   1
+418: GMAT                len: 4  freq:   1
+419: eechina             len: 7  freq:   1
+420: programming         len:11  freq:   1
+421: soft                len: 4  freq:   1
+422: job                 len: 3  freq:   1
+423: yishi               len: 5  freq:   1
+424: yixue               len: 5  freq:   1
+425: tarenasz            len: 8  freq:   1
+426: caizicheng          len:10  freq:   1
+427: yinghuaedu          len:10  freq:   1
+428: gztarena            len: 8  freq:   1
+429: icbuy               len: 5  freq:   1
+430: yihekangmei         len:11  freq:   1
+431: boyihudong          len:10  freq:   1
+432: bjtarena            len: 8  freq:   2
+433: gtarena             len: 7  freq:   1
+434: retc                len: 4  freq:   1
+435: java                len: 4  freq:   1
+436: cyuyan              len: 6  freq:   1
+437: ychun               len: 5  freq:   1
+438: offcn               len: 5  freq:   1
+439: phptarena           len: 9  freq:   1
+440: PHP                 len: 3  freq:   1
+441: st                  len: 2  freq:   1
+442: china               len: 5  freq:   1
+443: gre                 len: 3  freq:   1
+444: xiaoma              len: 6  freq:   1
+445: GRE                 len: 3  freq:   1
+446: etime               len: 5  freq:   1
+447: net                 len: 3  freq:   2
+448: linuxidc            len: 8  freq:   1
+449: bj                  len: 2  freq:   1
+450: szpxe               len: 5  freq:   1
+451: edude               len: 5  freq:   1
+452: edu                 len: 3  freq:   1
+453: itpxpj              len: 6  freq:   1
+454: changsha            len: 8  freq:   1
+455: xueda               len: 5  freq:   1
+456: beijing             len: 7  freq:   1
+457: qd                  len: 2  freq:   1
+458: tj                  len: 2  freq:   1
+459: tantuw              len: 6  freq:   1
+460: cuebqg              len: 6  freq:   1
+461: bbs                 len: 3  freq:   1
+462: itcast              len: 6  freq:   1
+463: forum               len: 5  freq:   1
+464: csacc               len: 5  freq:   1
+465: cjkj                len: 4  freq:   1
+466: conu                len: 4  freq:   1
+467: hbTab               len: 5  freq:   1
+468: conl                len: 4  freq:   2
+469: cont                len: 4  freq:   2
+470: m                   len: 1  freq:   1
+471: con                 len: 3  freq:   1
+472: block               len: 5  freq:   1
+473: tencent             len: 7  freq:   3
+474: message             len: 7  freq:   3
+475: uin                 len: 3  freq:   3
+476: Site                len: 4  freq:   3
+477: Menu                len: 4  freq:   3
+478: yes                 len: 3  freq:   3
+479: wpa                 len: 3  freq:   3
+480: qq                  len: 2  freq:   3
+481: pa                  len: 2  freq:   3
+482: MSN                 len: 3  freq:   3
+483: wh                  len: 2  freq:   1
+484: lyglb               len: 5  freq:   1
+485: hotmail             len: 7  freq:   3
+486: bqdb                len: 4  freq:   4
+487: miibeian            len: 8  freq:   1
+488: gov                 len: 3  freq:   1
+489: ICP                 len: 3  freq:   1
+490: Baidu               len: 5  freq:   4
+491: tongji              len: 6  freq:   3
+492: analytics           len: 9  freq:   2
+493: javascript          len:10  freq:   9
+494: bdhmProtocol        len:12  freq:   4
+495: https               len: 5  freq:   4
+496: location            len: 8  freq:   2
+497: protocol            len: 8  freq:   2
+498: unescape            len: 8  freq:   2
+499: Cscript             len: 7  freq:   2
+500: hm                  len: 2  freq:   2
+501: h                   len: 1  freq:   2
+502: Fdc                 len: 3  freq:   1
+503: acd                 len: 3  freq:   1
+504: fef                 len: 3  freq:   1
+505: cnzz                len: 4  freq:   3
+506: stat                len: 4  freq:   1
+507: web                 len: 3  freq:   1
+508: lainframe           len: 9  freq:   1
+509: chat                len: 4  freq:   1
+510: kf                  len: 2  freq:   2
+511: arg                 len: 3  freq:   1
+512: bjtop               len: 5  freq:   1
+513: icon                len: 4  freq:   2
+514: noscript            len: 8  freq:   2
+515: yahoo               len: 5  freq:   1
+516: Button              len: 6  freq:   2
+517: BEGIN               len: 5  freq:   1
+518: bdshare             len: 7  freq:   4
+519: bds                 len: 3  freq:   7
+520: tools               len: 5  freq:   2
+521: get                 len: 3  freq:   1
+522: codes               len: 5  freq:   1
+523: position            len: 8  freq:   1
+524: absolute            len: 8  freq:   1
+525: qzone               len: 5  freq:   1
+526: tsina               len: 5  freq:   1
+527: tqq                 len: 3  freq:   1
+528: renren              len: 6  freq:   1
+529: shareCount          len:10  freq:   1
+530: data                len: 4  freq:   1
+531: amp                 len: 3  freq:   1
+532: uid                 len: 3  freq:   1
+533: bdshell             len: 7  freq:   2
+534: bdimg               len: 5  freq:   1
+535: share               len: 5  freq:   1
+536: static              len: 6  freq:   1
+537: shell               len: 5  freq:   1
+538: cdnversion          len:10  freq:   1
+539: Math                len: 4  freq:   1
+540: ceil                len: 4  freq:   1
+541: Date                len: 4  freq:   1
+542: END                 len: 3  freq:   1
+sum = 10125
+ 80: td                  len: 2  freq: 882
+ 79: tr                  len: 2  freq: 695
+106: a                   len: 1  freq: 688
+159: nbsp                len: 4  freq: 415
+ 38: href                len: 4  freq: 322
+ 88: img                 len: 3  freq: 275
+ 64: width               len: 5  freq: 268
+ 85: height              len: 6  freq: 251
+ 12: http                len: 4  freq: 238
+137: target              len: 6  freq: 230
+138: blank               len: 5  freq: 230
+128: www                 len: 3  freq: 196
+127: class               len: 5  freq: 174
+130: org                 len: 3  freq: 163
+144: akaedu              len: 6  freq: 163
+ 48: src                 len: 3  freq: 152
+ 65: align               len: 5  freq: 146
+235: bgcolor             len: 7  freq: 141
+ 61: px                  len: 2  freq: 133
+ 69: font                len: 4  freq: 130
+140: pages               len: 5  freq: 130
+160: b                   len: 1  freq: 126
+ 66: center              len: 6  freq: 123
+ 99: li                  len: 2  freq: 123
+ 59: border              len: 6  freq: 110
+179: jpg                 len: 3  freq: 105
+ 39: style               len: 5  freq: 102
+142: php                 len: 3  freq: 101
+  9: html                len: 4  freq:  99
+238: strong              len: 6  freq:  97
+102: page                len: 4  freq:  89
+183: span                len: 4  freq:  80
+237: e                   len: 1  freq:  74
+ 81: colspan             len: 7  freq:  73
+236: d                   len: 1  freq:  73
+162: right               len: 5  freq:  68
+101: left                len: 4  freq:  66
+ 75: br                  len: 2  freq:  64
+187: com                 len: 3  freq:  64
+155: id                  len: 2  freq:  63
+143: htm                 len: 3  freq:  54
+ 67: color               len: 5  freq:  53
+ 76: table               len: 5  freq:  47
+ 22: Linux               len: 5  freq:  46
+104: line                len: 4  freq:  44
+338: t                   len: 1  freq:  44
+ 45: script              len: 6  freq:  36
+282: PADDING             len: 7  freq:  36
+ 91: gif                 len: 3  freq:  35
+263: edf                 len: 3  freq:  35
+264: fa                  len: 2  freq:  35
+  5: C                   len: 1  freq:  32
+178: valign              len: 6  freq:  32
+182: im                  len: 2  freq:  32
+184: ip                  len: 2  freq:  31
+214: middle              len: 6  freq:  30
+337: untitled            len: 8  freq:  30
+ 96: ul                  len: 2  freq:  28
+274: bottom              len: 6  freq:  28
+ 57: div                 len: 3  freq:  26
+185: v                   len: 1  freq:  26
+287: ffffff              len: 6  freq:  26
+ 20: title               len: 5  freq:  25
+146: team                len: 4  freq:  24
+172: newsdetail          len:10  freq:  23
+ 17: text                len: 4  freq:  22
+ 49: js                  len: 2  freq:  21
+ 77: cellpadding         len:11  freq:  21
+ 74: padding             len: 7  freq:  20
+ 78: cellspacing         len:11  freq:  20
+ 42: rel                 len: 3  freq:  19
+131: cn                  len: 2  freq:  19
+208: p                   len: 1  freq:  19
+134: nofollow            len: 8  freq:  18
+139: FFFFFF              len: 6  freq:  18
+ 84: none                len: 4  freq:  17
+126: alt                 len: 3  freq:  17
+191: dzimg               len: 5  freq:  17
+192: hots                len: 4  freq:  17
+ 44: type                len: 4  freq:  16
+281: lt                  len: 2  freq:  16
+336: rrtop               len: 5  freq:  16
+ 21: linux               len: 5  freq:  15
+ 31: Android             len: 7  freq:  15
+ 70: size                len: 4  freq:  15
+ 71: margin              len: 6  freq:  15
+ 83: list                len: 4  freq:  15
+217: video               len: 5  freq:  15
+367: underline           len: 9  freq:  15
+112: CDiv                len: 4  freq:  14
+135: onmouseover         len:11  freq:  14
+188: show                len: 4  freq:  13
+244: bks                 len: 3  freq:  13
+250: E                   len: 1  freq:  13
+254: gt                  len: 2  freq:  13
+288: D                   len: 1  freq:  13
+109: FF                  len: 2  freq:  12
+141: about               len: 5  freq:  12
+186: youku               len: 5  freq:  12
+323: wow                 len: 3  freq:  12
+ 25: ARM                 len: 3  freq:  11
+156: DISPLAY             len: 7  freq:  11
+157: akae                len: 4  freq:  11
+ 94: top                 len: 3  freq:  10
+276: android             len: 7  freq:  10
+148: ask                 len: 3  freq:   9
+218: study               len: 5  freq:   9
+280: ff                  len: 2  freq:   9
+283: RIGHT               len: 5  freq:   9
+284: LEFT                len: 4  freq:   9
+285: BOTTOM              len: 6  freq:   9
+286: TOP                 len: 3  freq:   9
+493: javascript          len:10  freq:   9
+ 46: language            len: 8  freq:   8
+ 47: JavaScript          len:10  freq:   8
+ 86: background          len:10  freq:   8
+114: var                 len: 3  freq:   8
+117: document            len: 8  freq:   8
+129: aka                 len: 3  freq:   8
+147: zyindex             len: 7  freq:   8
+247: book                len: 4  freq:   8
+309: wqkgj               len: 5  freq:   8
+358: TR                  len: 2  freq:   8
+359: TD                  len: 2  freq:   8
+362: A                   len: 1  freq:   8
+ 23: name                len: 4  freq:   7
+ 82: tmenu               len: 5  freq:   7
+173: xyx                 len: 3  freq:   7
+240: QQ                  len: 2  freq:   7
+278: hot                 len: 3  freq:   7
+519: bds                 len: 3  freq:   7
+ 72: pt                  len: 2  freq:   6
+ 89: menu                len: 4  freq:   6
+120: i                   len: 1  freq:   6
+149: contact             len: 7  freq:   6
+167: course              len: 6  freq:   6
+177: qudong              len: 6  freq:   6
+345: dotted              len: 6  freq:   6
+346: B                   len: 1  freq:   6
+ 11: meta                len: 4  freq:   5
+ 16: content             len: 7  freq:   5
+ 36: AKAE                len: 4  freq:   5
+ 68: rgb                 len: 3  freq:   5
+124: display             len: 7  freq:   5
+170: anli                len: 4  freq:   5
+246: FA                  len: 2  freq:   5
+308: red                 len: 3  freq:   5
+318: pic                 len: 3  freq:   5
+351: sid                 len: 3  freq:   5
+352: aid                 len: 3  freq:   5
+353: more                len: 4  freq:   5
+402: tdblue              len: 6  freq:   5
+ 30: G                   len: 1  freq:   4
+ 34: c                   len: 1  freq:   4
+ 51: baidu               len: 5  freq:   4
+ 60: radius              len: 6  freq:   4
+ 90: bg                  len: 2  freq:   4
+103: nav                 len: 3  freq:   4
+111: function            len: 8  freq:   4
+115: Div                 len: 3  freq:   4
+118: getElementById      len:14  freq:   4
+213: tbody               len: 5  freq:   4
+248: MIPS                len: 4  freq:   4
+279: qrsgcspx            len: 8  freq:   4
+292: DAndroid            len: 8  freq:   4
+354: TABLE               len: 5  freq:   4
+357: TBODY               len: 5  freq:   4
+374: LPI                 len: 3  freq:   4
+380: vspace              len: 6  freq:   4
+390: write               len: 5  freq:   4
+486: bqdb                len: 4  freq:   4
+490: Baidu               len: 5  freq:   4
+494: bdhmProtocol        len:12  freq:   4
+495: https               len: 5  freq:   4
+518: bdshare             len: 7  freq:   4
+ 41: css                 len: 3  freq:   3
+113: para                len: 4  freq:   3
+116: window              len: 6  freq:   3
+121: if                  len: 2  freq:   3
+132: index               len: 5  freq:   3
+151: neweb               len: 5  freq:   3
+209: OVERFLOW            len: 8  freq:   3
+210: hidden              len: 6  freq:   3
+245: EDF                 len: 3  freq:   3
+251: F                   len: 1  freq:   3
+252: vlist               len: 5  freq:   3
+255: USB                 len: 3  freq:   3
+261: mid                 len: 3  freq:   3
+290: Java                len: 4  freq:   3
+313: qudonggj            len: 8  freq:   3
+315: linuxgjgcs          len:10  freq:   3
+317: bom                 len: 3  freq:   3
+324: speed               len: 5  freq:   3
+326: Marquee             len: 7  freq:   3
+328: scrollTop           len: 9  freq:   3
+331: MyMar               len: 5  freq:   3
+339: IT                  len: 2  freq:   3
+347: redlink             len: 7  freq:   3
+372: logo                len: 4  freq:   3
+385: form                len: 4  freq:   3
+393: STYLE               len: 5  freq:   3
+473: tencent             len: 7  freq:   3
+474: message             len: 7  freq:   3
+475: uin                 len: 3  freq:   3
+476: Site                len: 4  freq:   3
+477: Menu                len: 4  freq:   3
+478: yes                 len: 3  freq:   3
+479: wpa                 len: 3  freq:   3
+480: qq                  len: 2  freq:   3
+481: pa                  len: 2  freq:   3
+482: MSN                 len: 3  freq:   3
+485: hotmail             len: 7  freq:   3
+491: tongji              len: 6  freq:   3
+505: cnzz                len: 4  freq:   3
+  2: HTML                len: 4  freq:   2
+ 10: head                len: 4  freq:   2
+ 18: charset             len: 7  freq:   2
+ 19: gb                  len: 2  freq:   2
+ 26: Connected           len: 9  freq:   2
+ 27: Community           len: 9  freq:   2
+ 40: home                len: 4  freq:   2
+ 56: body                len: 4  freq:   2
+ 73: auto                len: 4  freq:   2
+ 87: url                 len: 3  freq:   2
+ 92: no                  len: 2  freq:   2
+ 93: repeat              len: 6  freq:   2
+107: decoration          len:10  freq:   2
+110: SCRIPT              len: 6  freq:   2
+122: tem                 len: 3  freq:   2
+125: png                 len: 3  freq:   2
+136: AKA                 len: 3  freq:   2
+145: dqindex             len: 7  freq:   2
+150: jiuye               len: 5  freq:   2
+158: new                 len: 3  freq:   2
+161: news                len: 4  freq:   2
+165: eva                 len: 3  freq:   2
+211: WIDTH               len: 5  freq:   2
+212: HEIGHT              len: 6  freq:   2
+223: vim                 len: 3  freq:   2
+239: NewStars            len: 8  freq:   2
+241: vod                 len: 3  freq:   2
+243: collapse            len: 8  freq:   2
+265: marquee             len: 7  freq:   2
+268: this                len: 4  freq:   2
+270: onMouseOver         len:11  freq:   2
+293: Socket              len: 6  freq:   2
+296: UI                  len: 2  freq:   2
+310: LCD                 len: 3  freq:   2
+311: Frambuffer          len:10  freq:   2
+312: summer              len: 6  freq:   2
+325: innerHTML           len: 9  freq:   2
+332: setInterval         len:11  freq:   2
+341: family              len: 6  freq:   2
+342: wuhan               len: 5  freq:   2
+355: cellSpacing         len:11  freq:   2
+356: cellPadding         len:11  freq:   2
+364: FONT                len: 4  freq:   2
+365: IMG                 len: 3  freq:   2
+368: Moblin              len: 6  freq:   2
+371: zhiliang            len: 8  freq:   2
+375: CC                  len: 2  freq:   2
+378: VxWorks             len: 7  freq:   2
+379: hspace              len: 6  freq:   2
+381: business            len: 8  freq:   2
+388: action              len: 6  freq:   2
+391: f                   len: 1  freq:   2
+395: input               len: 5  freq:   2
+396: s                   len: 1  freq:   2
+404: peixun              len: 6  freq:   2
+413: fudao               len: 5  freq:   2
+432: bjtarena            len: 8  freq:   2
+447: net                 len: 3  freq:   2
+468: conl                len: 4  freq:   2
+469: cont                len: 4  freq:   2
+492: analytics           len: 9  freq:   2
+496: location            len: 8  freq:   2
+497: protocol            len: 8  freq:   2
+498: unescape            len: 8  freq:   2
+499: Cscript             len: 7  freq:   2
+500: hm                  len: 2  freq:   2
+501: h                   len: 1  freq:   2
+510: kf                  len: 2  freq:   2
+513: icon                len: 4  freq:   2
+514: noscript            len: 8  freq:   2
+516: Button              len: 6  freq:   2
+520: tools               len: 5  freq:   2
+533: bdshell             len: 7  freq:   2
+  1: DOCTYPE             len: 7  freq:   1
+  3: PUBLIC              len: 6  freq:   1
+  4: W                   len: 1  freq:   1
+  6: DTD                 len: 3  freq:   1
+  7: Transitional        len:12  freq:   1
+  8: EN                  len: 2  freq:   1
+ 13: equiv               len: 5  freq:   1
+ 14: Content             len: 7  freq:   1
+ 15: Type                len: 4  freq:   1
+ 24: description         len:11  freq:   1
+ 28: MiniGUI             len: 7  freq:   1
+ 29: keywords            len: 8  freq:   1
+ 32: copyright           len: 9  freq:   1
+ 33: Copyright           len: 9  freq:   1
+ 35: by                  len: 2  freq:   1
+ 37: link                len: 4  freq:   1
+ 43: stylesheet          len:10  freq:   1
+ 50: scroll              len: 6  freq:   1
+ 52: site                len: 4  freq:   1
+ 53: verification        len:12  freq:   1
+ 54: HXNM                len: 4  freq:   1
+ 55: AIRBomXtU           len: 9  freq:   1
+ 58: moz                 len: 3  freq:   1
+ 62: khtml               len: 5  freq:   1
+ 63: webkit              len: 6  freq:   1
+ 95: important           len: 9  freq:   1
+ 97: clear               len: 5  freq:   1
+ 98: both                len: 4  freq:   1
+100: float               len: 5  freq:   1
+105: LI                  len: 2  freq:   1
+108: hover               len: 5  freq:   1
+119: for                 len: 3  freq:   1
+123: temm                len: 4  freq:   1
+133: shtml               len: 5  freq:   1
+152: templates           len: 9  freq:   1
+153: yqb                 len: 3  freq:   1
+154: yqmy                len: 4  freq:   1
+163: cert                len: 4  freq:   1
+164: protect             len: 7  freq:   1
+166: jobnews             len: 7  freq:   1
+168: weight              len: 6  freq:   1
+169: bold                len: 4  freq:   1
+171: tlist               len: 5  freq:   1
+174: classroom           len: 9  freq:   1
+175: baoming             len: 7  freq:   1
+176: shuma               len: 5  freq:   1
+180: online              len: 6  freq:   1
+181: zizhuxuexi          len:10  freq:   1
+189: XNTUzMzk            len: 8  freq:   1
+190: MjQ                 len: 3  freq:   1
+193: XNTUzNDIxNjI        len:12  freq:   1
+194: XNTUzNDMwNzAw       len:13  freq:   1
+195: XNTUzNDQ            len: 8  freq:   1
+196: Nzky                len: 4  freq:   1
+197: ELF                 len: 3  freq:   1
+198: XNTUzNDYyMDA        len:12  freq:   1
+199: XNTUzNDcxNDQ        len:12  freq:   1
+200: XNTUzNzIxMzky       len:13  freq:   1
+201: XNTUzNzMwMDUy       len:13  freq:   1
+202: XNTUzNzUyNjY        len:12  freq:   1
+203: XNTUzNzc            len: 8  freq:   1
+204: NzYw                len: 4  freq:   1
+205: XNTUzODAzODMy       len:13  freq:   1
+206: XNTUzODQ            len: 8  freq:   1
+207: OTQ                 len: 3  freq:   1
+215: Gandrid             len: 7  freq:   1
+216: linuxshujia         len:11  freq:   1
+219: song                len: 4  freq:   1
+220: hanchao             len: 7  freq:   1
+221: embedded            len: 8  freq:   1
+222: linuxBasicCommnad    len:17  freq:   1
+224: gcc                 len: 3  freq:   1
+225: Gcc                 len: 3  freq:   1
+226: gdb                 len: 3  freq:   1
+227: Gdb                 len: 3  freq:   1
+228: makefile            len: 8  freq:   1
+229: Makefile            len: 8  freq:   1
+230: toolchainsShow      len:14  freq:   1
+231: GNU                 len: 3  freq:   1
+232: clecture            len: 8  freq:   1
+233: clectureindex       len:13  freq:   1
+234: work                len: 4  freq:   1
+242: books               len: 5  freq:   1
+249: akaev               len: 5  freq:   1
+253: teacher             len: 7  freq:   1
+256: AMD                 len: 3  freq:   1
+257: FreeBSD             len: 7  freq:   1
+258: Solaris             len: 7  freq:   1
+259: wuyue               len: 5  freq:   1
+260: wangbo              len: 6  freq:   1
+262: kbxx                len: 4  freq:   1
+266: direction           len: 9  freq:   1
+267: onMouseOut          len:10  freq:   1
+269: start               len: 5  freq:   1
+271: stop                len: 4  freq:   1
+272: scrollamount        len:12  freq:   1
+273: scrolldelay         len:11  freq:   1
+275: athena              len: 6  freq:   1
+277: tiyan               len: 5  freq:   1
+289: DLinux              len: 6  freq:   1
+291: Core                len: 4  freq:   1
+294: OpenGL              len: 6  freq:   1
+295: XML                 len: 3  freq:   1
+297: SOLite              len: 6  freq:   1
+298: NDK                 len: 3  freq:   1
+299: ContentProvider     len:15  freq:   1
+300: Service             len: 7  freq:   1
+301: Binder              len: 6  freq:   1
+302: surfaceview         len:11  freq:   1
+303: asynctask           len: 9  freq:   1
+304: URLConnection       len:13  freq:   1
+305: HttpClient          len:10  freq:   1
+306: Json                len: 4  freq:   1
+307: Home                len: 4  freq:   1
+314: gaojibiancheng      len:14  freq:   1
+316: yizhi               len: 5  freq:   1
+319: ydbtp               len: 5  freq:   1
+320: aobj                len: 4  freq:   1
+321: obj                 len: 3  freq:   1
+322: yq                  len: 2  freq:   1
+327: offsetTop           len: 9  freq:   1
+329: offsetHeight        len:12  freq:   1
+330: else                len: 4  freq:   1
+333: clearInterval       len:13  freq:   1
+334: onmouseout          len:10  freq:   1
+335: jishuwendang        len:12  freq:   1
+340: ubuntu              len: 6  freq:   1
+343: solid               len: 5  freq:   1
+344: ccc                 len: 3  freq:   1
+348: FILTER              len: 6  freq:   1
+349: alpha               len: 5  freq:   1
+350: opacity             len: 7  freq:   1
+360: TEXT                len: 4  freq:   1
+361: ALIGN               len: 5  freq:   1
+363: bluelink            len: 8  freq:   1
+366: hd                  len: 2  freq:   1
+369: CPU                 len: 3  freq:   1
+370: authorize           len: 9  freq:   1
+373: lpi                 len: 3  freq:   1
+376: coston              len: 6  freq:   1
+377: bubugao             len: 7  freq:   1
+382: SPARK               len: 5  freq:   1
+383: tw                  len: 2  freq:   1
+384: kecheng             len: 7  freq:   1
+386: method              len: 6  freq:   1
+387: post                len: 4  freq:   1
+389: mail                len: 4  freq:   1
+392: faff                len: 4  freq:   1
+394: Email               len: 5  freq:   1
+397: email               len: 5  freq:   1
+398: Submit              len: 6  freq:   1
+399: value               len: 5  freq:   1
+400: submit              len: 6  freq:   1
+401: advice              len: 6  freq:   1
+403: yjbys               len: 5  freq:   1
+405: bylw                len: 4  freq:   1
+406: gdyjs               len: 5  freq:   1
+407: xmuky               len: 5  freq:   1
+408: njnukao             len: 7  freq:   1
+409: cnhutong            len: 8  freq:   1
+410: embeddedlinux       len:13  freq:   1
+411: eefocus             len: 7  freq:   1
+412: sjz                 len: 3  freq:   1
+414: jn                  len: 2  freq:   1
+415: wangjiaoba          len:10  freq:   1
+416: gmat                len: 4  freq:   1
+417: tiandaoedu          len:10  freq:   1
+418: GMAT                len: 4  freq:   1
+419: eechina             len: 7  freq:   1
+420: programming         len:11  freq:   1
+421: soft                len: 4  freq:   1
+422: job                 len: 3  freq:   1
+423: yishi               len: 5  freq:   1
+424: yixue               len: 5  freq:   1
+425: tarenasz            len: 8  freq:   1
+426: caizicheng          len:10  freq:   1
+427: yinghuaedu          len:10  freq:   1
+428: gztarena            len: 8  freq:   1
+429: icbuy               len: 5  freq:   1
+430: yihekangmei         len:11  freq:   1
+431: boyihudong          len:10  freq:   1
+433: gtarena             len: 7  freq:   1
+434: retc                len: 4  freq:   1
+435: java                len: 4  freq:   1
+436: cyuyan              len: 6  freq:   1
+437: ychun               len: 5  freq:   1
+438: offcn               len: 5  freq:   1
+439: phptarena           len: 9  freq:   1
+440: PHP                 len: 3  freq:   1
+441: st                  len: 2  freq:   1
+442: china               len: 5  freq:   1
+443: gre                 len: 3  freq:   1
+444: xiaoma              len: 6  freq:   1
+445: GRE                 len: 3  freq:   1
+446: etime               len: 5  freq:   1
+448: linuxidc            len: 8  freq:   1
+449: bj                  len: 2  freq:   1
+450: szpxe               len: 5  freq:   1
+451: edude               len: 5  freq:   1
+452: edu                 len: 3  freq:   1
+453: itpxpj              len: 6  freq:   1
+454: changsha            len: 8  freq:   1
+455: xueda               len: 5  freq:   1
+456: beijing             len: 7  freq:   1
+457: qd                  len: 2  freq:   1
+458: tj                  len: 2  freq:   1
+459: tantuw              len: 6  freq:   1
+460: cuebqg              len: 6  freq:   1
+461: bbs                 len: 3  freq:   1
+462: itcast              len: 6  freq:   1
+463: forum               len: 5  freq:   1
+464: csacc               len: 5  freq:   1
+465: cjkj                len: 4  freq:   1
+466: conu                len: 4  freq:   1
+467: hbTab               len: 5  freq:   1
+470: m                   len: 1  freq:   1
+471: con                 len: 3  freq:   1
+472: block               len: 5  freq:   1
+483: wh                  len: 2  freq:   1
+484: lyglb               len: 5  freq:   1
+487: miibeian            len: 8  freq:   1
+488: gov                 len: 3  freq:   1
+489: ICP                 len: 3  freq:   1
+502: Fdc                 len: 3  freq:   1
+503: acd                 len: 3  freq:   1
+504: fef                 len: 3  freq:   1
+506: stat                len: 4  freq:   1
+507: web                 len: 3  freq:   1
+508: lainframe           len: 9  freq:   1
+509: chat                len: 4  freq:   1
+511: arg                 len: 3  freq:   1
+512: bjtop               len: 5  freq:   1
+515: yahoo               len: 5  freq:   1
+517: BEGIN               len: 5  freq:   1
+521: get                 len: 3  freq:   1
+522: codes               len: 5  freq:   1
+523: position            len: 8  freq:   1
+524: absolute            len: 8  freq:   1
+525: qzone               len: 5  freq:   1
+526: tsina               len: 5  freq:   1
+527: tqq                 len: 3  freq:   1
+528: renren              len: 6  freq:   1
+529: shareCount          len:10  freq:   1
+530: data                len: 4  freq:   1
+531: amp                 len: 3  freq:   1
+532: uid                 len: 3  freq:   1
+534: bdimg               len: 5  freq:   1
+535: share               len: 5  freq:   1
+536: static              len: 6  freq:   1
+537: shell               len: 5  freq:   1
+538: cdnversion          len:10  freq:   1
+539: Math                len: 4  freq:   1
+540: ceil                len: 4  freq:   1
+541: Date                len: 4  freq:   1
+542: END                 len: 3  freq:   1

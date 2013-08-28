@@ -1,0 +1,2 @@
+#me     cname   age   gender   native  mobile         qq			email               hobby
+lichensong 李晨松  18    男	      濮阳    13021175152	809350236	asong111@126.com	音乐,游戏

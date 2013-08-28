@@ -1,0 +1,5 @@
+-rwxr-xr-x 1 akaedu akaedu 7349 2013-08-18 19:56 a.out
+-rw-r--r-- 1 akaedu akaedu    0 2013-08-18 19:58 ls.txt
+-rw-r--r-- 1 akaedu akaedu   37 2013-08-18 19:41 Makefile
+-rw-r--r-- 1 akaedu akaedu  674 2013-08-18 19:57 maxline.c
+-rw-r--r-- 1 akaedu akaedu 1683 2013-08-18 19:33 myc.txt

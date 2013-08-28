@@ -1,0 +1,2 @@
+#name      cname  age gender(性别) native  mobile        qq          email				hobby
+yishanwen 易善文  22   男          河南    15510335506 706484966		706484966@qq.com	篮球,音乐,游戏 

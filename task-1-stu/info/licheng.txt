@@ -1,0 +1,2 @@
+#name      cname   age   gender   native      mobile          qq         email                hobby
+licheng   李城    23     男      黑龙江    18611439042   594238713  leoiader@sina.com    游泳,足球,动漫

@@ -1,0 +1,6 @@
+#include "headx.h"
+
+int add(int a, int b)
+{
+	return a + b + 1;
+}

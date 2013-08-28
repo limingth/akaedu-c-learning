@@ -1,0 +1,5 @@
+add.o: add.c headx.h head2.h
+div.o: div.c
+main.o: main.c head.h head2.h head3.h headx.h
+mul.o: mul.c head.h
+sub.o: sub.c

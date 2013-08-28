@@ -1,0 +1,2 @@
+#name          cname   age gender native mobile        qq          email                   hobby
+zhangyigang     张宜刚  22   男     河南   15510338515  981011303  15103717415@163.com      篮球,乒乓球

@@ -1,0 +1,2 @@
+# name cname  age  gender native     mobile       qq             email				hobby
+liyang  李扬   23   男     河南   15037132386 1075108090  liyang522008@163.com  篮球,乒乓球,音乐
